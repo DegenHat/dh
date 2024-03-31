@@ -1,0 +1,65 @@
+#body, .body{
+	background-color: #a36efd;
+	color:white;
+	font-family: "Space Mono", monospace;
+}
+
+.hatLogo{
+	width:25rem;
+}
+
+#header{
+	text-align: center;
+}
+
+.upperHeader, #upperHeader{
+	margin-bottom:-1rem;
+}
+
+.bottomHeader, #bottomHeader{
+	margin-top:4rem;
+}
+
+.CAHeader, #CAHeader{
+	margin-bottom:4rem;
+}
+
+.space-mono-regular {
+  font-family: "Space Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.space-mono-bold {
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.space-mono-regular-italic {
+  font-family: "Space Mono", monospace;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.space-mono-bold-italic {
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: italic;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+a:active {
+  color: white;
+}
